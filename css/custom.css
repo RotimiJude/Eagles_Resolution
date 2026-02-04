@@ -1,0 +1,11 @@
+.reqColor{
+    background-color: #C49A00;
+}
+
+/* Carousel Slide 1 Text Container Shadow */
+.owl-carousel .owl-item:first-child .col-sm-9 {
+    box-shadow: 0 10px 10px rgba(255, 255, 255, 0.8);
+    padding: 40px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.65);
+}
